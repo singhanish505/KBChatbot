@@ -1,6 +1,6 @@
 streamlit
 pymupdf
-openai
 tiktoken
 langchain
 chromadb
+openai==0.28.1
