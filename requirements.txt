@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+openai
+tiktoken
+langchain
+chromadb
